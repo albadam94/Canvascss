@@ -3081,6 +3081,19 @@ body {
   margin-top: 3rem;
 }
 
+.btnempezarmodulok2{
+  max-width: 325px !important;
+  background-color: #079bab;
+  display: flex;
+  align-items: center;
+  color: white;
+  border-radius: 8px 8px 8px 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 20px auto 25px auto;
+  margin-top: 2rem !important;
+}
+
 .btnencuesta{
 min-height: 40px;
   max-height: 35px;
@@ -3118,57 +3131,153 @@ max-width: 442px;
   margin: 2% 8% 6% 13%;
 }
 
+
+.tdescargamaterialdecurso{
+  color: #00468b;
+  font-weight: 700;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.btndescargarlosarchivos{
+  max-width: 442px;
+    min-width: 13.7%;
+    min-height: 64px;
+    max-height: 28px;
+    background-color: #00468b;
+    display: inline-flex;
+    align-items: center;
+    justify-content: right;
+    color: white;
+    margin: 2% 8% 6% 13%;
+}
+
 .linkenlacemenudescargas{
-color: white;
-font-size: 14px;
-font-family: "Karla", sans-serif;
-font-weight: 400;
-text-decoration: none;
-width: 300px;
-padding-left: 20%;
+  color: white;
+  font-size: 14px;
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  width: 300px;
+  padding-left: 20%;
 }
 
 .iconomenudescargas{
-max-width: 100%;
-height: inherit;
-vertical-align: middle;
-border: 0;
-padding: 4%;
+  max-width: 100%;
+  height: inherit;
+  vertical-align: middle;
+  border: 0;
+  padding: 4%;
 }
 
 .iconoterminacurso{
-max-width: 100%;
-height: inherit;
-vertical-align: middle;
-border: 0;
-padding: 10%;
+  max-width: 100%;
+  height: inherit;
+  vertical-align: middle;
+  border: 0;
+  padding: 4%;
 }
 
 .contenedormenudescarga{
-min-height: 40px;
-max-height: 48px;
-min-width: 91.58%;
-max-width: 91.58%;
-background: transparent;
-display: flex;
-margin-left: auto;
-margin-right: auto;
-align-items: center;
-justify-content: space-between;
-color: black;
-font-family: helvetica;
-text-align: center;
+  min-height: 48px;
+  max-height: 48px;
+  min-width: 91.58%;
+  max-width: 91.58%;
+  background: transparent;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: space-between;
+  color: black;
+  font-family: helvetica;
+  text-align: center;
 }
 
-.btnempezarmodulok2{
-    max-width: 325px !important;
-    background-color: #079bab;
+.botonmenudescarga{
+  font-size: 1.3rem;
+  min-width: 24%;
+  max-width: 24%;
+  min-height: 51px;
+  max-height: 51px;
+  background: #01448F;
+  margin-top: 0;
+  margin-bottom: 1px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+}
+
+.titulo-leccionmenudescargas{
+  font-size: 1.3rem;
+  min-width: 24%;
+  max-width: 31%;
+  min-height: 76px;
+  max-height: 51px;
+  background: #01448F;
+  margin-top: 0;
+  margin-bottom: 1px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+  
+}
+
+.subtitulo-leccion-menudescargas{
+  text-align: center;
+  width: 100%;
+  font-size: 12px;
+  font-weight: 700;
+  padding-left: 0;
+  padding-right: 0;
+  color: #01448F;
+  min-height: 51px;
+  max-height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contenedor-menusdescarga{
+    margin-left: 12px;
+    margin-right: 0;
+    margin-top: 80px;
     display: flex;
     align-items: center;
-    color: white;
-    border-radius: 8px 8px 8px 0px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin: 20px auto 25px auto;
-    margin-top: 2rem !important;
+    padding: 0px;
+    min-width: 92%;
+    max-width: 93%;
+    min-height: 53.63px;
+    max-height: 481px;
+    border: 0.3px solid #079BAB;
+    border-radius: 9.2px 9.2px 0px 0px;
 }
+
+
+.link-textomenudescargas{
+  text-decoration: none !important;
+  color: #01448F;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+.textobtnmenu{
+  color: white;
+  padding: 0;
+  text-decoration: underline;
+  margin-top: 4%;
+  margin-bottom: 0%;
+  font-size: 15px;
+  font-family: "Karla", sans-serif;
+}
+
+
