@@ -3038,6 +3038,21 @@ body {
   margin-top: 3rem;
 }
 
+.btnempezarmodulok2{
+  max-width: 413px;
+  background-color: #079bab;
+  display: flex;
+  align-items: center;
+  color: white;
+  border-radius: 8px 8px 8px 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 31% 1% 0% 57% !important;
+  margin-top: -2rem !important;
+} 
+
+
+
 .tdescargamaterialdecurso{
   color: #00468b;
   font-weight: 700;
@@ -3100,15 +3115,77 @@ body {
   text-align: center;
 }
 
-.btnempezarmodulok2{
-  max-width: 413px;
-  background-color: #079bab;
+.botonmenudescarga{
+  font-size: 1.3rem;
+  min-width: 24%;
+  max-width: 24%;
+  min-height: 51px;
+  max-height: 51px;
+  background: #01448F;
+  margin-top: 0;
+  margin-bottom: 1px;
+  color: white;
   display: flex;
   align-items: center;
+  justify-content: center;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+}
+
+.titulo-leccionmenudescargas{
+  font-size: 1.3rem;
+  min-width: 24%;
+  max-width: 24%;
+  min-height: 51px;
+  max-height: 51px;
+  background: #01448F;
+  margin-top: 0;
+  margin-bottom: 1px;
   color: white;
-  border-radius: 8px 8px 8px 0px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  margin: 31% 1% 0% 57% !important;
-  margin-top: -2rem !important;
-} 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+  
+}
+
+.subtitulo-leccion-menudescargas{
+  text-align: center;
+  width: 100%;
+  font-size: 12px;
+  font-weight: 700;
+  padding-left: 0;
+  padding-right: 0;
+  color: #01448F;
+  min-height: 51px;
+  max-height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contenedor-menusdescarga{
+  margin-left: 78px;
+  margin-right: 0;
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+  padding: 0;
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 51.63px;
+  max-height: 51.63px;
+  border: 0.3px solid #079BAB;
+  border-radius: 9.2px 9.2px 0px 0px;
+}
+
+.link-textomenudescargas{
+  text-decoration: none !important;
+  color: #01448F;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
