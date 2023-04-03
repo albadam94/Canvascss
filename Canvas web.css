@@ -1,5 +1,13 @@
 /* Nuevos estilos alfabetizacion digital */
 
+.ic-Form-control--login .ic-Label {
+  color: #000000;
+}
+
+.ic-Login__actions .ic-Login__actions-timeout label {
+  color: #000000;
+}
+
 html,
 body {
   font-family: "Montserrat", sans-serif;
@@ -3170,7 +3178,7 @@ body {
 .contenedor-menusdescarga{
   margin-left: 40px;
   margin-right: 0;
-  margin-top: 50px;
+  margin-top: 30px;
   display: flex;
   align-items: center;
   padding: 0px;
@@ -3199,4 +3207,23 @@ body {
   font-weight: 400;
   font-family: "Karla", sans-serif;
   width: 80%;
+}
+
+.contenedor-leccionesmenudescarga{
+  width: 50%;
+  margin-top:5%;
+}
+
+.btndescargarcontenidomenudescargas{
+  min-width: 36.14%;
+  max-width: 36.14%;
+  height: 36px;
+  background-color: #00468b;
+  display: flex;
+  align-items: center;
+  color: white;
+  border-radius: 8px 8px 8px 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: -85px auto 25px auto;
 }
