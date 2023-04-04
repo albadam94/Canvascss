@@ -3047,16 +3047,18 @@ body {
 }
 
 .btnempezarmodulok2{
-  max-width: 413px;
-  background-color: #079bab;
-  display: flex;
-  align-items: center;
-  color: white;
-  border-radius: 8px 8px 8px 0px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  margin: 31% 1% 0% 57% !important;
-  margin-top: -2rem !important;
+  max-width: 32%;
+    background-color: #079bab;
+    display: flex;
+    align-items: center;
+    color: white;
+    border-radius: 8px 8px 8px 0px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    margin: 31% 1% 0% 57% !important;
+    margin-top: -2rem !important;
+    min-height: 36px;
+    max-height: 36px;
 } 
 
 
@@ -3143,7 +3145,7 @@ body {
 
 .titulo-leccionmenudescargas{
   font-size: 1.3rem;
-  min-width: 24%;
+  min-width: 35%;
   max-width: 31%;
   min-height: 76px;
   max-height: 51px;
@@ -3210,7 +3212,7 @@ body {
 }
 
 .contenedor-leccionesmenudescarga{
-  width: 50%;
+  width: 40%;
   margin-top:5%;
 }
 
@@ -3227,3 +3229,32 @@ body {
   padding-bottom: 0px;
   margin: -85px auto 25px auto;
 }
+
+.btn-presEvaluacionmenudescargas{
+  max-height: 36px;
+  min-width: 25%;
+  max-width: 20%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  color: white;
+  border: 2px solid #00468b;
+  border-radius: 8px 8px 8px 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 0 0 25px auto;
+}
+
+.link-presEvaluacionmenudescargas{
+  
+  
+      color: #00468b;
+      font-family: "Karla", sans-serif;
+      font-size: 14px;
+      text-decoration: underline;
+      width: 300px;
+      padding-left: 1rem;
+  
+  
+  }
+
