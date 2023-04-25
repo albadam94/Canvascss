@@ -167,12 +167,19 @@ body {
   margin-right: auto;
 }
 
-/*
+.ic-Login-header{
+  display:none;
+}
+
+
 .ic-Login__content {
-  margin: 50px 5px 10px 582px;
-  justify-items: right;
-  display: block;
-}*/
+  width: 400px;
+  margin: 30px auto;
+  background: var(--ic-brand-Login-Content-bgd-color);
+  border: 5px solid var(--ic-brand-Login-Content-border-color);
+  padding: 12px;
+  border-radius: 5px;
+}
 
 #content {
   padding: 0;
