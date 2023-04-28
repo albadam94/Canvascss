@@ -1042,8 +1042,8 @@ body {
 .imagen-empezar-modulo-2,
 .imagen-empezar-modulo-2-1 {
   padding-left: 0.7rem;
-  max-width: 22px;
-  max-height: 22px;
+  max-width: 30px;
+  max-height: 30px;
 }
 
 .texto-empezar-modulo-2,
@@ -1203,7 +1203,7 @@ body {
 }
 
 .actividad-practica-lista-modulo-1 {
-  margin-left: 11.4%;
+  margin-left: -0.6%;
   margin-right: 0;
   min-height: auto;
   max-width: 90.28%;
@@ -2653,8 +2653,8 @@ body {
     color: #0051a1;
     margin-top: 48px;
     width: 100%;
-    margin-left: 0 !important;
-    margin-right: auto !important;
+    margin-left: 26px !important;
+    margin-right: -8px !important;
     padding-top: 32px;
     padding-bottom: 32px;
     border-top: 1.00838px solid #0051a2;
@@ -3142,16 +3142,16 @@ body {
   .contenedor-presentar-evaluacion-fin-modulo {
     max-width: 85%;
     margin-top: 30px;
-    min-height: 44px;
+    min-height: 50px;
     max-height: 44px;
   }
 
   .imagen-evaluacion-fin-modulo {
     padding-left: 12px;
-    min-height: 32px;
-    max-height: 32px;
+    min-height: 30px;
+    max-height: 30px;
     min-width: 32px;
-    max-width: 32px;
+    max-width: 24px;
   }
   .link-evaluacion-fin-modulo {
     font-family: "Karla", sans-serif;
@@ -3247,15 +3247,15 @@ body {
 }
 
 .btnencuesta{
-min-height: 40px;
-  max-height: 35px;
+min-height: 38px;
+  max-height: 40px;
   max-width: 80.5%;
   background-color: #00468b;
   display: flex;
   align-items: center;
   color: white;
   border-radius: 8px 8px 8px 0px;
-  padding-top: 0px;
+  padding-top: 10px;
   padding-bottom: 0px;
   margin-left: auto;
   margin-right: auto;
