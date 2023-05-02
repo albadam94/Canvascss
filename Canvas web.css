@@ -680,7 +680,7 @@ body {
 .evaluacion-final-imagen {
   height: 22px;
   width: 22px;
-  padding-left: 4.55%;
+  padding-left: 5%;
 }
 
 .evaluacion-final-link {
@@ -1687,7 +1687,7 @@ body {
   min-height: 36px;
   max-height: 36px;
   max-width: 72.5%;
-  background-color: #00468b;
+  background-color: #079bab;
   display: flex;
   align-items: center;
   color: white;

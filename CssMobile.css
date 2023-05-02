@@ -26,7 +26,7 @@
   justify-content: center;
   align-items: center;
   color: #00468B;
-  font-size: 2rem;
+  font-size: 0rem;
   border-radius: 4px 4px 4px 0px;
   margin-bottom: 27.72px;
   border: 1px solid #00468B;
@@ -37,10 +37,10 @@
   text-decoration: none !important;
   color: #00468B;
   font-size: 16px;
-  width: 100%;
   font-weight: 400;
   margin-right: 30px;
   margin-left: 10px;
+  display: contents;
   
 }
 
@@ -54,7 +54,7 @@
   justify-content: center;
   align-items: center;
   color: white;
-  font-size: 2rem;
+  font-size: 0rem;
   border-radius: 4px 4px 4px 0px;
   margin-bottom: 15px;
   border: 1px solid #00468B;
@@ -62,13 +62,13 @@
 
 .link-btnespaciopf{
   text-decoration: none !important;
-    color: #0051A2;
-    font-size: 16px;
-    width: 100%;
-    font-weight: 400;
-    margin-right: 31px;
-    margin-left: 15px;
-    display: contents;
+  color: #0051A2;
+  font-size: 16px;
+  width: 100%;
+  font-weight: 400;
+  margin-right: 31px;
+  margin-left: 15px;
+  display: contents;
  
 }
 
@@ -1203,7 +1203,7 @@ body {
 }
 
 .actividad-practica-lista-modulo-1 {
-  margin-left: -0.6%;
+  margin-left: -1%;
   margin-right: 0;
   min-height: auto;
   max-width: 90.28%;
@@ -1709,7 +1709,7 @@ body {
   min-height: 36px;
   max-height: 36px;
   max-width: 72.5%;
-  background-color: #00468b;
+  background-color: #079bab;
   display: flex;
   align-items: center;
   color: white;
@@ -2243,7 +2243,7 @@ body {
   .evaluacion-final-imagen {
     height: 32px;
     width: 32px;
-    padding-left: 2.74%;
+    padding-left: 10%;
   }
 
   .evaluacion-final-link {
@@ -2501,7 +2501,7 @@ body {
 
   .imagen-empezar-modulo-2,
   .imagen-empezar-modulo-2-1 {
-    margin-left: 11.79px;
+    margin-left: 1px;
   }
 
   .texto-empezar-modulo-2,
@@ -2637,7 +2637,7 @@ body {
   }
 
   .actividad-practica-lista-modulo-1 {
-    max-width: 90.28%;
+    max-width: 95%;
   }
 
   .actividad-practica-lista-modulo-1-2 {
@@ -2653,8 +2653,8 @@ body {
     color: #0051a1;
     margin-top: 48px;
     width: 100%;
-    margin-left: 26px !important;
-    margin-right: -8px !important;
+    margin-left: 15px !important;
+    margin-right: -20px !important;
     padding-top: 32px;
     padding-bottom: 32px;
     border-top: 1.00838px solid #0051a2;
@@ -2701,10 +2701,10 @@ body {
 
   .link-imagen-practica-lista-modulo-1 {
     padding-left: 12px;
-    padding-top: 6.79px;
+    padding-top: 10px;
     padding-bottom: 6.79px;
-    max-height: 32.42px;
-    max-width: 32.42px;
+    max-height: 40px;
+    max-width: 40px;
   }
 
   .link-presentar-actividad-lista-modulo-1 {
