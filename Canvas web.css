@@ -1687,7 +1687,7 @@ body {
   min-height: 36px;
   max-height: 36px;
   max-width: 72.5%;
-  background-color: #079bab;
+  background-color: #00468B;
   display: flex;
   align-items: center;
   color: white;
@@ -3224,18 +3224,19 @@ body {
 }
 
 .btnempezarmodulok2{
-  max-width: 32%;
-    background-color: #079bab;
-    display: flex;
-    align-items: center;
-    color: white;
-    border-radius: 8px 8px 8px 0px;
-    padding-top: 2px;
-    padding-bottom: 5px;
-    margin: 31% 1% 0% 57% !important;
-    margin-top: -2rem !important;
-    min-height: 36px;
-    max-height: 36px;
+  min-height: 36px;
+  max-height: 36px;
+  max-width: 72.5%;
+  background-color: #079BAB;
+  display: flex;
+  align-items: center;
+  color: white;
+  border-radius: 8px 8px 8px 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3rem;
 } 
 
 
