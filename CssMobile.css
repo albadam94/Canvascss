@@ -14,6 +14,15 @@
   margin-bottom: 0;
 }
 
+.titulo-ayuda{
+    margin-top: 5%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    text-align: left;
+    font-size: 16px;
+    color: #0051a1;
+    margin-left: 19.04px;
+}
 
 
 .btn-espaciorientaciontutorial{
@@ -108,15 +117,15 @@
 
 
 .contenedormayudaEO{
-    margin-left: 3%;
-    margin-right: 8px;
-    margin-top: 20px;
+    margin-left: 4%;
+    margin-right: 5px;
+    margin-top: 30px;
     display: flex;
     align-items: center;
     padding: 0;
-    min-width: 95% !important;
+    min-width: 70px !important;
     max-width: 100%;
-    min-height: 72.63px;
+    min-height: 112px;
     max-height: 68.63px;
     border: 0.3px solid #079bab;
     border-radius: 5.04958px 5.04958px 0px 0px;
@@ -126,7 +135,7 @@
   font-size: 1.3rem;
   min-width: 24%;
   max-width: 24%;
-  min-height: 72px;
+  min-height: 112px;
   max-height: 51px;
   background: #00468B;
   margin-top: 0;
@@ -2523,7 +2532,7 @@ body {
   }
 
   .contenedor-lecciones {
-    width: 100%;
+    width: 97%;
   }
 
   .contenedor-leccion-1,

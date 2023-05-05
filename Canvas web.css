@@ -14,6 +14,16 @@
   width: 400px;
 }
 
+.titulo-ayuda{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  text-align: left;
+  font-size: 16px;
+  color: #0051a1;
+  margin-left: 19.04px;
+  display:none;
+}
+
 
 
 
