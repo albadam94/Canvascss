@@ -999,7 +999,7 @@ body {
   margin-right: auto;
   margin-bottom: 0;
   text-align: left;
-  line-height: 1rem;
+  line-height: 10px;
   font-family: "Montserrat", sans-serif;
   color: #00468b;
   width: 270px;
@@ -1287,8 +1287,8 @@ body {
 
 .link-imagen-practica-lista-modulo-1 {
   padding-left: 0.7rem;
-  height: 22px;
-  width: 22px;
+  height: 30px;
+  width: 30px;
 }
 
 .link-presentar-actividad-lista-modulo-1 {
@@ -2463,13 +2463,13 @@ body {
     margin-left: 6px;
     margin-right: auto;
     text-align: left;
-    line-height: 1rem;
+    line-height: 10px;
     font-family: "Montserrat", sans-serif;
     color: #00468b;
     width: 270px;
     font-weight: 300;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 5px;
   }
 
   .imagen-home-lista-modulo-1 {
@@ -2644,7 +2644,7 @@ body {
     margin-bottom: 0;
     margin-top: 0;
     margin-left: 0;
-    max-width: 100%;
+    max-width: 96%;
   }
 
   .actividad-practica-lista-modulo-1-texto {
@@ -2653,7 +2653,7 @@ body {
     color: #0051a1;
     margin-top: 48px;
     width: 100%;
-    margin-left: 15px !important;
+    margin-left: 10px !important;
     margin-right: -20px !important;
     padding-top: 32px;
     padding-bottom: 32px;
@@ -2703,8 +2703,8 @@ body {
     padding-left: 12px;
     padding-top: 10px;
     padding-bottom: 6.79px;
-    max-height: 40px;
-    max-width: 40px;
+    max-height: 45px;
+    max-width: 45px;
   }
 
   .link-presentar-actividad-lista-modulo-1 {
@@ -3123,7 +3123,7 @@ body {
     margin-top: 18px;
     margin-bottom: 3px;
     font-size: 16px;
-    line-height: 15px;
+    line-height: 22px;
   }
 
   .contenedor-texto-fin-modulo {
@@ -3160,6 +3160,7 @@ body {
     font-size: 16px;
     text-decoration: underline;
     padding-left: 10px;
+    margin-top: -7px;
   }
 
   /* Entrega de insignia */

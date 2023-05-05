@@ -34,7 +34,7 @@
 }
 
 .link-btnespaciotutorial{
-  width: auto;
+ 
   text-decoration: none !important;
   color: #00468B;
   font-size: 16px;
@@ -454,7 +454,7 @@ body {
 }
 
 .link-modulo1 {
-  width: auto;
+  
   text-decoration: none !important;
   color: white;
   font-size: 16px;
@@ -510,7 +510,7 @@ body {
 }
 
 .link-modulo2 {
-  width: auto;
+ 
   text-decoration: none !important;
   color: white;
   font-size: 16px;
@@ -920,7 +920,6 @@ body {
   max-width: 271px;
   text-align: left;
   line-height: 1rem;
-  font-family: helvetica;
   color: white;
 }
 
@@ -3135,6 +3134,7 @@ body {
     font-size: 16px;
     text-decoration: underline;
     padding-left: 10px;
+    
   }
 
   /* Entrega de insignia */
