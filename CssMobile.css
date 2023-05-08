@@ -17,9 +17,9 @@
 .titulo-ayuda{
     margin-top: 5%;
     font-family: "Montserrat", sans-serif;
-    font-weight: 400;
+    font-weight: 300;
     text-align: left;
-    font-size: 16px;
+    font-size: 18px;
     color: #0051a1;
     margin-left: 19.04px;
 }
@@ -133,7 +133,7 @@
 
 .titulo-mayudaEO {
   font-size: 1.3rem;
-  min-width: 24%;
+  min-width: 30%;
   max-width: 24%;
   min-height: 112px;
   max-height: 51px;
@@ -148,6 +148,7 @@
   padding-right: 0;
   text-align: center;
   margin-left: 0;
+  border-radius: 0 0 4.3px 0;
 }
 
 .link-subtitulomayudaEO {
